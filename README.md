@@ -4,6 +4,8 @@ An AI chatbot that answers plain-English questions about global tech layoffs, an
 
 Instead of digging through a spreadsheet yourself, you just ask a question like *"which company laid off the most people?"* and the bot translates that into real pandas code, runs it on the data, and gives you the answer, with the actual code shown so you can see exactly how it got there.
 
+🔗 **Live demo:** [layoffs-app-chatbot.streamlit.app](https://layoffs-app-chatbot-fuwecimxd6hgqyhlcxe2uv.streamlit.app)
+
 ## Try it out
 
 Ask things like:
